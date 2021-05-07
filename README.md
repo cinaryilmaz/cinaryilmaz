@@ -25,5 +25,6 @@ Gentoo tabanlı bir dağıtım yapmak
 * Silicone-Forum: ComradeOtaku
 * Donanım Arşivi Forum: \_LX\_
 * LXL Forum: ComradeOtaku (lxl-forum.xyz)
+* Email: comradeotaku@lxl-forum.xyz
 
 Bana en kolay şekilde Instagram ve Silicone-Forum'dan ulaşabilirsiniz.
