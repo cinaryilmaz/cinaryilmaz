@@ -24,5 +24,6 @@ Gentoo tabanlı bir dağıtım yapmak
 * Technopat Sosyal: Agnostik
 * Silicone-Forum: ComradeOtaku
 * Donanım Arşivi Forum: \_LX\_
+* LXL Forum: ComradeOtaku (lxl-forum.xyz)
 
 Bana en kolay şekilde Instagram ve Silicone-Forum'dan ulaşabilirsiniz.
