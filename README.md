@@ -7,7 +7,6 @@
 #### Kullandığım İşletim Sistemleri
 * Windows (çöp)
 * Kali Linux
-* Android x86
 * Manjaro
 * Ubuntu (ve Ubuntu tabanlı birkaç dağıtım)
 * Debian
