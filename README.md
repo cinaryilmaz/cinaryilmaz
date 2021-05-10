@@ -15,8 +15,9 @@
 * Fedora
 * Arch Linux
 * OpenSUSE
+* Android (x86 ve Termux)
 
-Şu anda **OpenSUSE** kullanıyorum.
+Şu anda **OpenSUSE** ve **Android** kullanıyorum.
 #### Hedefim
 Gentoo tabanlı bir dağıtım yapmak
 #### İletişim Adreslerim
