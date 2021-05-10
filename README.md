@@ -14,8 +14,9 @@
 * illedeLinux
 * Fedora
 * Arch Linux
+* OpenSUSE
 
-Şu anda **Arch Linux** kullanıyorum.
+Şu anda **OpenSUSE** kullanıyorum.
 #### Hedefim
 Gentoo tabanlı bir dağıtım yapmak
 #### İletişim Adreslerim
