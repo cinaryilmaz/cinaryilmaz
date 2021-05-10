@@ -23,7 +23,7 @@ Gentoo tabanlı bir dağıtım yapmak
 * Instagram: comradeotaku
 * Youtube: LX_
 * Technopat Sosyal: Agnostik
-* Silicone-Forum: ComradeOtaku
+* Silicone-Forum: rusrublesioldu0.11tl
 * Donanım Arşivi Forum: \_LX\_
 * LXL Forum: ComradeOtaku (lxl-forum.xyz)
 * Email: comradeotaku@lxl-forum.xyz
