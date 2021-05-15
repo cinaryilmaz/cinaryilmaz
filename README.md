@@ -1,5 +1,6 @@
 ### Comrade-Otaku
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=comrade-otaku&label=Profile%20views&color=0e75b6&style=flat" alt="comrade-otaku" /> </p>
+
 #### Bildiğim Diller
 * C#
 * PHP
