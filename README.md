@@ -13,10 +13,10 @@
 * illedeLinux
 * Fedora
 * Arch Linux
-* OpenSUSE
+* OpenSUSE Tumbleweed
 * Android (x86 ve Termux)
 
-Şu anda **OpenSUSE** ve **Android** kullanıyorum.
+Şu anda **OpenSUSE Tumbleweed** ve **Android** kullanıyorum.
 #### Hedefim
 Gentoo tabanlı bir dağıtım yapmak
 #### İletişim Adreslerim
