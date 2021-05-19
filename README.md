@@ -10,7 +10,8 @@
 * Windows (çöp)
 * Kali Linux
 * Manjaro
-* Ubuntu (ve Ubuntu tabanlı birkaç dağıtım)
+* Ubuntu
+* Kubuntu
 * Debian
 * illedeLinux
 * Fedora
@@ -18,7 +19,7 @@
 * OpenSUSE Tumbleweed
 * Android (x86 ve Termux)
 
-Şu anda **OpenSUSE Tumbleweed** ve **Android** kullanıyorum.
+Şu anda **illedeLinux Mate** ve **Android** kullanıyorum.
 #### Hedefim
 Gentoo tabanlı bir dağıtım yapmak
 #### İletişim Adreslerim
