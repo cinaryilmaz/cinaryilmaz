@@ -18,8 +18,10 @@
 * Arch Linux
 * OpenSUSE Tumbleweed
 * Android (x86 ve Termux)
+* Pisi Linux
+* Calculate Linux
 
-Şu anda **illedeLinux Mate** ve **Android** kullanıyorum.
+Şu anda **Calculate Linux** ve **Android** kullanıyorum.
 #### Hedefim
 Gentoo tabanlı bir dağıtım yapmak
 #### İletişim Adreslerim
