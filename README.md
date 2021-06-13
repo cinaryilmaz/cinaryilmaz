@@ -5,7 +5,8 @@
 * C#
 * PHP
 * Python
-* Assembly (az çok)
+* Assembly
+* C++
 #### Kullandığım İşletim Sistemleri
 * Windows (çöp)
 * Kali Linux
