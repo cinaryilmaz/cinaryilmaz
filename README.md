@@ -28,10 +28,9 @@ Gentoo tabanlı bir dağıtım yapmak
 #### İletişim Adreslerim
 * Instagram: comradeotaku
 * Youtube: LX_
-* Technopat Sosyal: Agnostik
 * Silicone-Forum: rusrublesioldu0.11tl
 * Donanım Arşivi Forum: \_LX\_
 * LXL Forum: ComradeOtaku (lxl-forum.xyz)
-* Email: comradeotaku@lxl-forum.xyz
+* Email: cinaryilmaz.gnu@gmail.com
 
 Bana en kolay şekilde Instagram ve Silicone-Forum'dan ulaşabilirsiniz.
