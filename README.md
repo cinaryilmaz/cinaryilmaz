@@ -22,7 +22,7 @@
 * Pisi Linux
 * Calculate Linux
 
-Şu anda **Calculate Linux** ve **Android** kullanıyorum.
+Şu anda **Arch Linux** ve **Android** kullanıyorum.
 #### Hedefim
 Gentoo tabanlı bir dağıtım yapmak
 #### İletişim Adreslerim
