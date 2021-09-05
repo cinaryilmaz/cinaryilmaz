@@ -21,16 +21,15 @@
 * Android (x86 ve Termux)
 * Pisi Linux
 * Calculate Linux
+* Artix Linux
 
-Şu anda **Arch Linux** ve **Android** kullanıyorum.
+Şu anda **Artix Linux** ve **Android** kullanıyorum.
 #### Hedefim
 Gentoo tabanlı bir dağıtım yapmak
 #### İletişim Adreslerim
-* Instagram: comradeotaku
-* Youtube: LX_
+* Youtube: The Push Cell
 * Silicone-Forum: rusrublesioldu0.11tl
-* Donanım Arşivi Forum: \_LX\_
-* LXL Forum: ComradeOtaku (lxl-forum.xyz)
+* Cell Forum: Camroku (cell-forum.xyz)
 * Email: cinaryilmaz.gnu@gmail.com
 
-Bana en kolay şekilde Instagram ve Silicone-Forum'dan ulaşabilirsiniz.
+Bana en kolay şekilde Silicone-Forum'dan ulaşabilirsiniz.
