@@ -8,7 +8,7 @@
 * Assembly
 * C++
 #### Kullandığım İşletim Sistemleri
-* Windows (çöp)
+* Windows
 * Kali Linux
 * Manjaro
 * Ubuntu
