@@ -1,6 +1,6 @@
 ### Comrade-Otaku
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Camroku&label=Profile%20views&color=0e75b6&style=flat" alt="comrade-otaku" /> </p>
-[![Camroku's GitHub stats](https://github-readme-stats.vercel.app/api?username=camroku)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Camroku&label=Profile%20views&color=0e75b6&style=flat" alt="Camroku" /> </p>
+<img src="https://github-readme-stats.vercel.app/api?username=camroku&theme=gruvbox" alt="Camroku's GitHub stats" />
 
 #### Bildiğim Diller
 * C#
