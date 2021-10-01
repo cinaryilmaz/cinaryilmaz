@@ -30,7 +30,7 @@ Gentoo tabanlı bir dağıtım yapmak
 #### İletişim Adreslerim
 * Youtube: The Push Cell
 * Silicone-Forum: rusrublesioldu0.11tl
-* Cell Forum: Camroku (cell-forum.xyz)
+* Kişisel Website: https://camroku.xyz
 * Email: cinaryilmaz.gnu@gmail.com
 
 Bana en kolay şekilde Silicone-Forum'dan ulaşabilirsiniz.
