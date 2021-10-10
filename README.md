@@ -24,6 +24,8 @@
 * Pisi Linux
 * Calculate Linux
 * Artix Linux
+* ToaruOS
+* MikeOS
 
 Su anda **Artix Linux** ve **Android** kullaniyorum.
 
