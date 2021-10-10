@@ -27,7 +27,7 @@
 * ToaruOS
 * MikeOS
 
-Su anda **Artix Linux** ve **Android** kullaniyorum.
+Su anda **Arch Linux** ve **Android** kullaniyorum.
 
 #### Hedefim
 Gentoo tabanlı bir dagitim yapmak.
