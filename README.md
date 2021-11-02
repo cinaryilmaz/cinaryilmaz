@@ -3,6 +3,17 @@ Ramondia2 Gitea'ya geciyorum, profilim [burada](https://git.ramondia2.space/Katy
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Camroku&label=Profile%20views&color=0e75b6&style=flat" alt="Camroku" /> </p>
 <img src="https://github-readme-stats.vercel.app/api?username=camroku&theme=gruvbox" alt="Camroku's GitHub stats" />
 
+#### KApps
+##### Applications
+* [kanote](https://git.ramondia2.space/Katyusha/kanote)
+* [kash](https://git.ramondia2.space/Katyusha/kash)
+* [kas](https://git.ramondia2.space/Katyusha/kas)
+* [kafetch](https://git.ramondia2.space/Katyusha/kafetch)
+
+##### Other Links
+* [KApps Discord](https://discord.gg/umXVyvMdbN)
+* [KApps Forum](https://kapps.camroku.xyz/)
+
 #### Bildigim Diller
 * C#
 * PHP
