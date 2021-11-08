@@ -1,14 +1,12 @@
-### Baska bir Git servisine geciyorum, Github hesabimi artik pek kullanmayacagim.
-Ramondia2 Gitea'ya geciyorum, profilim [burada](https://git.ramondia2.space/Katyusha).
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Camroku&label=Profile%20views&color=0e75b6&style=flat" alt="Camroku" /> </p>
 <img src="https://github-readme-stats.vercel.app/api?username=camroku&theme=gruvbox" alt="Camroku's GitHub stats" />
 
 #### KApps
 ##### Applications
-* [kanote](https://git.ramondia2.space/Katyusha/kanote)
-* [kash](https://git.ramondia2.space/Katyusha/kash)
-* [kas](https://git.ramondia2.space/Katyusha/kas)
-* [kafetch](https://git.ramondia2.space/Katyusha/kafetch)
+* [kanote](https://github.com/Camroku/kanote)
+* [kash](https://github.com/Camroku/kash)
+* [kas](https://github.com/Camroku/kas)
+* [kafetch](https://github.com/Camroku/kafetch)
 
 ##### Other Links
 * [KApps Discord](https://discord.gg/umXVyvMdbN)
