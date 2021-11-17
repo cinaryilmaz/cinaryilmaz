@@ -36,15 +36,28 @@
 * Artix Linux
 * ToaruOS
 * MikeOS
+* AlyxOS
 
-Su anda **Arch Linux** ve **Android** kullaniyorum.
+Su anda **AlyxOS** ve **Android** kullaniyorum.
+
+#### Kullandigim Masaustu Ortamlari/Pencere Yoneticileri
+* GNOME
+* KDE
+* LXDE
+* XFCE
+* i3wm
+* dwm
+* bspwm
+* worm
+
+Su anda **i3wm** kullaniyorum.
 
 #### Hedefim
 Gentoo tabanlı bir dagitim yapmak.
 
 #### Iletisim Adreslerim
 * Youtube: The Push Cell
-* Silicone-Forum: rusrublesioldu0.11tl
+* Silicone-Forum: Turk
 * Kişisel Website: https://camroku.xyz
 * Email: cinaryilmaz.gnu@gmail.com
 * Ramondia2 Git: Camroku
