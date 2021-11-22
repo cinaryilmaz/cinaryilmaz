@@ -4,10 +4,11 @@
 
 #### KApps
 ##### Applications
-* [kanote](https://github.com/Camroku/kanote)
-* [kash](https://github.com/Camroku/kash)
-* [kas](https://github.com/Camroku/kas)
-* [kafetch](https://github.com/Camroku/kafetch)
+* [kanote](https://github.com/Camroku/kanote) - A simple note-taking app - **(Python)**
+* [kash](https://github.com/Camroku/kash) - A simple shell - **(Python)**
+* [kas](https://github.com/Camroku/kas) - A simple code searcher - **(Python)**
+* [kafetch](https://github.com/Camroku/kafetch) - A system fetch tool - **(Python)**
+* [kal](https://github.com/Camroku/kal) - A license downloader - **(Rust)**
 
 ##### Other Links
 * [KApps Discord](https://discord.gg/umXVyvMdbN)
