@@ -1,5 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Camroku&label=Profile%20views&color=0e75b6&style=flat" alt="Camroku" /> </p>
-<img src="https://github-readme-stats.vercel.app/api?username=camroku&theme=apprentice" alt="Camroku's GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=camroku&theme=apprentice&hide_border=true" alt="Camroku's GitHub stats" />
 <img src="https://github-profile-trophy-iota.vercel.app/?username=Camroku&theme=apprentice&no-frame=true" />
 
 #### KApps
