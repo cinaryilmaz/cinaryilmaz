@@ -67,7 +67,7 @@ I'm currently using **Arch Linux** and **Android**.
 * dwm
 * bspwm
 * worm
-* 
+
 I'm currently using **i3wm**.
 
 ## My Goal
