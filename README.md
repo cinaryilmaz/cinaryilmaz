@@ -1,6 +1,4 @@
 # Camroku
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Camroku&label=Profile%20views&color=0e75b6&style=flat" alt="Camroku" /> </p>
-
 ## Stats
 <div>
     <a href="https://github-readme-stats.vercel.app">
