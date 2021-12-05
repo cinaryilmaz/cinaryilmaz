@@ -68,7 +68,7 @@
 * Calculate Linux
 * Artix Linux
 
-![Other](https://img.shields.io/badge/other-%23ffffff.svg?style=for-the-badge&logoColor=black)
+![Other](https://img.shields.io/badge/other-%23ffffff.svg?style=for-the-badge)
 * ToaruOS
 * MikeOS
 
@@ -92,8 +92,6 @@ Starting my own operating system project.
 ## Contact
 <img src="https://avatars.githubusercontent.com/u/79412062" align="right" width="150px" />
 
-* Youtube: The Push Cell
-* Silicone-Forum: Turk
+* Youtube: [The Push Cell](https://www.youtube.com/channel/UCkzCfWEh0DkfW7-vhSFGDJQ)
 * Personal Website: https://camroku.xyz
 * Email: cinaryilmaz.gnu@gmail.com
-* Ramondia2 Git: Katroku
