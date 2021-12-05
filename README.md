@@ -30,20 +30,29 @@
 * [KApps Forum](https://kapps.camroku.xyz/)
 
 ## Languages I Know
-* C#
-* PHP
-* Python
-* Assembly
-* C++
+* ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+* ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+* ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+* ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+* ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+* ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+* ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+* ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+* ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ## Operating Systems I Used
-* Windows
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+* Windows 7
+* Windows 8.1
+* Windows 10
+* Windows 11
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 * Kali Linux
 * Manjaro
 * Ubuntu
 * Kubuntu
 * Debian
-* illedeLinux
 * Fedora
 * Arch Linux
 * OpenSUSE Tumbleweed
@@ -51,6 +60,8 @@
 * Pisi Linux
 * Calculate Linux
 * Artix Linux
+
+![Other](https://img.shields.io/badge/other-%23ffffff.svg?style=for-the-badge&logoColor=black)
 * ToaruOS
 * MikeOS
 
@@ -58,7 +69,7 @@ I'm currently using **Arch Linux** and **Android**.
 
 ## Window Managers/Desktop Environments I Used
 * GNOME
-* KDE
+* Plasma
 * LXDE
 * XFCE
 * i3wm
