@@ -1,5 +1,4 @@
 # Camroku
-![](https://avatars.githubusercontent.com/u/79412062)
 ## Stats
 <div>
     <a href="https://github-readme-stats.vercel.app">
@@ -73,6 +72,8 @@ I'm currently using **i3wm**.
 Starting my own operating system project.
 
 ## Contact
+<img src="https://avatars.githubusercontent.com/u/79412062" align="right" width="150px" />
+
 * Youtube: The Push Cell
 * Silicone-Forum: Turk
 * Personal Website: https://camroku.xyz
