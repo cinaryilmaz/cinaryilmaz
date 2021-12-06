@@ -1,4 +1,5 @@
 # Camroku
+> Imagine having an opinion 🤮
 ## Stats
 <div>
     <a href="https://github-readme-stats.vercel.app">
