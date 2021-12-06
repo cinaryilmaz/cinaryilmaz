@@ -1,5 +1,8 @@
 # Camroku
 > Imagine having an opinion 🤮
+
+[Badges used in this README.md file](https://github.com/Ileriayo/markdown-badges)
+
 ## Stats
 <div>
     <a href="https://github-readme-stats.vercel.app">
