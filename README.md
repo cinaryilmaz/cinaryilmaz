@@ -32,7 +32,7 @@
 * [kal](https://github.com/Camroku/kal) - A license downloader
 
 ### Other Links
-* [KApps Discord](https://discord.gg/umXVyvMdbN)
+* [![Discord](https://img.shields.io/badge/kaserver-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/umXVyvMdbN)
 * [KApps Forum](https://kapps.camroku.xyz/)
 
 ## Languages I Know
@@ -52,29 +52,32 @@
 * ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
 ## Operating Systems I Used
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-* Windows 7
-* Windows 8.1
-* Windows 10
-* Windows 11
+* ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+  * Windows 7
+  * Windows 8.1
+  * Windows 10
+  * Windows 11
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-* Kali Linux
-* Manjaro
-* Ubuntu
-* Kubuntu
-* Debian
-* Fedora
-* Arch Linux
-* OpenSUSE Tumbleweed
-* Android (x86 and Termux)
-* Pisi Linux
-* Calculate Linux
-* Artix Linux
+* ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  * ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
+    * ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+    * ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+    * ![Kubuntu](https://img.shields.io/badge/Kubuntu-ffffff?style=for-the-badge&logo=ubuntu&logoColor=black)
+    * ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
+  * ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+    * ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+    * ![Artix](https://img.shields.io/badge/Artix%20Linux-1793D1?logo=artix-linux&logoColor=fff&style=for-the-badge)
+    * ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)
+  * ![Not based on anything](https://img.shields.io/badge/other-%23ffffff.svg?style=for-the-badge)
+    * ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
+    * ![OpenSUSE](https://img.shields.io/badge/openSUSE-73ba25?style=for-the-badge&logo=opensuse&logoColor=white)
+    * ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+    * ![Pisi Linux](https://camroku.xyz/pisi.php)
+    * ![Calculate Linux](https://img.shields.io/badge/Calculate-262626?style=for-the-badge&logoColor=white)
 
-![Other](https://img.shields.io/badge/other-%23ffffff.svg?style=for-the-badge)
-* ToaruOS
-* MikeOS
+* ![Other](https://img.shields.io/badge/other-%23ffffff.svg?style=for-the-badge)
+  * ToaruOS
+  * MikeOS
 
 I'm currently using **Arch Linux** and **Android**.
 
