@@ -15,7 +15,7 @@
       <img width="98%" alt="Trophy" src="https://github-profile-trophy-iota.vercel.app/?username=Camroku&theme=apprentice&no-frame=true" />
     </a>
 
-![Profile Views Count](https://ennx1xcop1h3xxc.m.pipedream.net/)
+![Profile Views Count](https://camroku.xyz/gh.php)
 </div>
 
 ## KApps
