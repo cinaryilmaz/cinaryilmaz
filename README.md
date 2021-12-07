@@ -103,7 +103,7 @@ I'm currently using **i3wm**.
   * ![Mozilla Firefox](https://img.shields.io/badge/Mozilla_Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
   * ![Tor Browser](https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)
 
-I' currently using **Mozilla Firefox**.
+I'm currently using **Mozilla Firefox**.
 
 ## My Goal
 Starting my own operating system project.
