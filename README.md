@@ -96,6 +96,6 @@ Starting my own operating system project.
 ## Contact
 <img src="https://avatars.githubusercontent.com/u/79412062" align="right" width="150px" />
 
-* Youtube: [The Push Cell](https://www.youtube.com/channel/UCkzCfWEh0DkfW7-vhSFGDJQ)
-* Personal Website: https://camroku.xyz
-* Email: cinaryilmaz.gnu@gmail.com
+* [![YouTube](https://img.shields.io/badge/The%20Push%20Cell-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCkzCfWEh0DkfW7-vhSFGDJQ)
+* [![Camroku](https://img.shields.io/badge/Camroku-%23683804.svg?style=for-the-badge&logoColor=white)](https://camroku.xyz)
+* [![Email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cinaryilmaz.gnu@gmail.com)
