@@ -22,18 +22,18 @@
 </div>
 
 ## Pins
-[![Pin](https://github-readme-stats.vercel.app/api/pin/?username=Camroku&hide_border=true&theme=apprentice&repo=awesome-ka)](https://github.com/anuraghazra/github-readme-stats)
-[![Pin](https://github-readme-stats.vercel.app/api/pin/?username=Camroku&hide_border=true&theme=apprentice&repo=badge-view-count)](https://github.com/anuraghazra/github-readme-stats)
-[![Pin](https://github-readme-stats.vercel.app/api/pin/?username=Camroku&hide_border=true&theme=apprentice&repo=kagrg)](https://github.com/anuraghazra/github-readme-stats)
-[![Pin](https://github-readme-stats.vercel.app/api/pin/?username=Camroku&hide_border=true&theme=apprentice&repo=kgl)](https://github.com/anuraghazra/github-readme-stats)
-[![Pin](https://github-readme-stats.vercel.app/api/pin/?username=Camroku&hide_border=true&theme=apprentice&repo=kal)](https://github.com/anuraghazra/github-readme-stats)
-[![Pin](https://github-readme-stats.vercel.app/api/pin/?username=Camroku&hide_border=true&theme=apprentice&repo=filelang)](https://github.com/anuraghazra/github-readme-stats)
-[![Pin](https://github-readme-stats.vercel.app/api/pin/?username=Camroku&hide_border=true&theme=apprentice&repo=kanote)](https://github.com/anuraghazra/github-readme-stats)
-[![Pin](https://github-readme-stats.vercel.app/api/pin/?username=Camroku&hide_border=true&theme=apprentice&repo=kafetch)](https://github.com/anuraghazra/github-readme-stats)
-[![Pin](https://github-readme-stats.vercel.app/api/pin/?username=Camroku&hide_border=true&theme=apprentice&repo=kash)](https://github.com/anuraghazra/github-readme-stats)
-[![Pin](https://github-readme-stats.vercel.app/api/pin/?username=Camroku&hide_border=true&theme=apprentice&repo=kas)](https://github.com/anuraghazra/github-readme-stats)
-[![Pin](https://github-readme-stats.vercel.app/api/pin/?username=Camroku&hide_border=true&theme=apprentice&repo=kd-mikeos)](https://github.com/anuraghazra/github-readme-stats)
-[![Pin](https://github-readme-stats.vercel.app/api/pin/?username=Camroku&hide_border=true&theme=apprentice&repo=lxl-pm)](https://github.com/anuraghazra/github-readme-stats)
+[![Pin](https://github-readme-stats.vercel.app/api/pin/?username=Camroku&hide_border=true&theme=apprentice&repo=awesome-ka)](https://github.com/Camroku/awesome-ka)
+[![Pin](https://github-readme-stats.vercel.app/api/pin/?username=Camroku&hide_border=true&theme=apprentice&repo=badge-view-count)](https://github.com/Camroku/badge-view-count)
+[![Pin](https://github-readme-stats.vercel.app/api/pin/?username=Camroku&hide_border=true&theme=apprentice&repo=kagrg)](https://github.com/Camroku/kagrg)
+[![Pin](https://github-readme-stats.vercel.app/api/pin/?username=Camroku&hide_border=true&theme=apprentice&repo=kgl)](https://github.com/Camroku/kgl)
+[![Pin](https://github-readme-stats.vercel.app/api/pin/?username=Camroku&hide_border=true&theme=apprentice&repo=kal)](https://github.com/Camroku/kal)
+[![Pin](https://github-readme-stats.vercel.app/api/pin/?username=Camroku&hide_border=true&theme=apprentice&repo=filelang)](https://github.com/Camroku/filelang)
+[![Pin](https://github-readme-stats.vercel.app/api/pin/?username=Camroku&hide_border=true&theme=apprentice&repo=kanote)](https://github.com/Camroku/kanote)
+[![Pin](https://github-readme-stats.vercel.app/api/pin/?username=Camroku&hide_border=true&theme=apprentice&repo=kafetch)](https://github.com/Camroku/kafetch)
+[![Pin](https://github-readme-stats.vercel.app/api/pin/?username=Camroku&hide_border=true&theme=apprentice&repo=kash)](https://github.com/Camroku/kash)
+[![Pin](https://github-readme-stats.vercel.app/api/pin/?username=Camroku&hide_border=true&theme=apprentice&repo=kas)](https://github.com/Camroku/kas)
+[![Pin](https://github-readme-stats.vercel.app/api/pin/?username=Camroku&hide_border=true&theme=apprentice&repo=kd-mikeos)](https://github.com/Camroku/kd-mikeos)
+[![Pin](https://github-readme-stats.vercel.app/api/pin/?username=Camroku&hide_border=true&theme=apprentice&repo=lxl-pm)](https://github.com/Camroku/lxl-pm)
 
 ## Languages I Know
 * ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
