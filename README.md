@@ -22,18 +22,32 @@
 </div>
 
 ## Pins
-[![Pin](https://github-readme-stats.vercel.app/api/pin/?username=Camroku&hide_border=true&theme=apprentice&repo=awesome-ka)](https://github.com/Camroku/awesome-ka)
-[![Pin](https://github-readme-stats.vercel.app/api/pin/?username=Camroku&hide_border=true&theme=apprentice&repo=badge-view-count)](https://github.com/Camroku/badge-view-count)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)<br/>
 [![Pin](https://github-readme-stats.vercel.app/api/pin/?username=Camroku&hide_border=true&theme=apprentice&repo=kagrg)](https://github.com/Camroku/kagrg)
 [![Pin](https://github-readme-stats.vercel.app/api/pin/?username=Camroku&hide_border=true&theme=apprentice&repo=kgl)](https://github.com/Camroku/kgl)
-[![Pin](https://github-readme-stats.vercel.app/api/pin/?username=Camroku&hide_border=true&theme=apprentice&repo=kal)](https://github.com/Camroku/kal)
-[![Pin](https://github-readme-stats.vercel.app/api/pin/?username=Camroku&hide_border=true&theme=apprentice&repo=filelang)](https://github.com/Camroku/filelang)
 [![Pin](https://github-readme-stats.vercel.app/api/pin/?username=Camroku&hide_border=true&theme=apprentice&repo=kanote)](https://github.com/Camroku/kanote)
 [![Pin](https://github-readme-stats.vercel.app/api/pin/?username=Camroku&hide_border=true&theme=apprentice&repo=kafetch)](https://github.com/Camroku/kafetch)
 [![Pin](https://github-readme-stats.vercel.app/api/pin/?username=Camroku&hide_border=true&theme=apprentice&repo=kash)](https://github.com/Camroku/kash)
 [![Pin](https://github-readme-stats.vercel.app/api/pin/?username=Camroku&hide_border=true&theme=apprentice&repo=kas)](https://github.com/Camroku/kas)
-[![Pin](https://github-readme-stats.vercel.app/api/pin/?username=Camroku&hide_border=true&theme=apprentice&repo=kd-mikeos)](https://github.com/Camroku/kd-mikeos)
+
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)<br/>
 [![Pin](https://github-readme-stats.vercel.app/api/pin/?username=Camroku&hide_border=true&theme=apprentice&repo=lxl-pm)](https://github.com/Camroku/lxl-pm)
+[![Pin](https://github-readme-stats.vercel.app/api/pin/?username=Camroku&hide_border=true&theme=apprentice&repo=badge-view-count)](https://github.com/Camroku/badge-view-count)
+
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)<br/>
+[![Pin](https://github-readme-stats.vercel.app/api/pin/?username=Camroku&hide_border=true&theme=apprentice&repo=filelang)](https://github.com/Camroku/filelang)
+
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)<br/>
+[![Pin](https://github-readme-stats.vercel.app/api/pin/?username=Camroku&hide_border=true&theme=apprentice&repo=kal)](https://github.com/Camroku/kal)
+
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)<br/>
+[![Pin](https://github-readme-stats.vercel.app/api/pin/?username=Camroku&hide_border=true&theme=apprentice&repo=awesome-ka)](https://github.com/Camroku/awesome-ka)
+
+![V](https://img.shields.io/badge/VLang-ffffff?style=for-the-badge&logo=v&logoColor=#536b8a)<br/>
+[![Pin](https://github-readme-stats.vercel.app/api/pin/?username=Camroku&hide_border=true&theme=apprentice&repo=susgen)](https://github.com/Camroku/susgen)
+
+![Other](https://img.shields.io/badge/other-%23ffffff.svg?style=for-the-badge)<br/>
+[![Pin](https://github-readme-stats.vercel.app/api/pin/?username=Camroku&hide_border=true&theme=apprentice&repo=kd-mikeos)](https://github.com/Camroku/kd-mikeos)
 
 ## Languages I Know
 * ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -46,6 +60,7 @@
 * ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 * ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 * ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+* ![V](https://img.shields.io/badge/VLang-ffffff?style=for-the-badge&logo=v&logoColor=#536b8a)
 
 ## Frameworks I used
 * ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
