@@ -131,3 +131,4 @@ Starting my own operating system project.
 * [![YouTube](https://img.shields.io/badge/The%20Push%20Cell-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCkzCfWEh0DkfW7-vhSFGDJQ)
 * [![Camroku](https://img.shields.io/badge/Camroku-%23000000.svg?style=for-the-badge&logo=About.me&logoColor=white)](https://camroku.xyz)
 * [![Email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cinaryilmaz.gnu@gmail.com)
+* [![Discord](https://img.shields.io/badge/discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/umXVyvMdbN)
