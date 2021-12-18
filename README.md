@@ -129,4 +129,4 @@ Starting my own operating system project.
 * [![YouTube](https://camroku.xyz/badge/yt)](https://www.youtube.com/channel/UCkzCfWEh0DkfW7-vhSFGDJQ)
 * [![Camroku](https://camroku.xyz/badge/camroku)](https://camroku.xyz)
 * [![Email](https://camroku.xyz/badge/email)](mailto:cinaryilmaz.gnu@gmail.com)
-* [![Discord](https://camroku.xyz/badge/discord)](https://discord.gg/umXVyvMdbN)
+* [![Discord](https://camroku.xyz/badge/discord)](https://camroku.xyz/invite)
