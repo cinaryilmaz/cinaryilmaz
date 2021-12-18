@@ -17,8 +17,6 @@
     <a href="https://github.com/ryo-ma/github-profile-trophy">
       <img width="49%" alt="Trophy" src="https://github-profile-trophy-iota.vercel.app/?username=Camroku&theme=apprentice&no-frame=true&column=3" />
     </a>
-
-![Profile Views Count](https://camroku.xyz/gh.php?username=Camroku)
 </div>
 
 ## Pins
