@@ -85,7 +85,7 @@
     * ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
     * ![OpenSUSE](https://img.shields.io/badge/openSUSE-73ba25?style=for-the-badge&logo=opensuse&logoColor=white)
     * ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-    * ![Pisi Linux](https://camroku.xyz/pisi.php)
+    * ![Pisi Linux](https://camroku.xyz/badge/pisi)
     * ![Calculate Linux](https://img.shields.io/badge/Calculate-262626?style=for-the-badge&logoColor=white)
 
 * ![Other](https://img.shields.io/badge/other-%23ffffff.svg?style=for-the-badge)
