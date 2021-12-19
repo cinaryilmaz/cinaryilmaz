@@ -59,6 +59,7 @@
 * ![Rust](https://camroku.xyz/badge/rust)
 * ![Shell Script](https://camroku.xyz/badge/sh)
 * ![V](https://camroku.xyz/badge/vlang)
+* ![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 
 ## Frameworks I used
 * ![.Net](https://camroku.xyz/badge/dotnet)
@@ -77,6 +78,7 @@
     * ![Ubuntu](https://camroku.xyz/badge/ubuntu)
     * ![Kubuntu](https://camroku.xyz/badge/kubuntu)
     * ![Debian](https://camroku.xyz/badge/debian)
+    * ![Zorin OS](https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=for-the-badge&logo=zorin&logoColor=white)
   * ![Arch](https://camroku.xyz/badge/arch)
     * ![Arch](https://camroku.xyz/badge/arch)
     * ![Artix](https://camroku.xyz/badge/artix)
@@ -92,7 +94,7 @@
   * ToaruOS
   * MikeOS
 
-I'm currently using **Arch Linux** and **Android**.
+I'm currently using **Arch Linux** and **Android**.<br/>
 
 ## Window Managers/Desktop Environments I Used
 * GNOME
@@ -119,9 +121,6 @@ I'm currently using **i3wm**.
   * ![IE](https://camroku.xyz/badge/ie)
 
 I'm currently using **Mozilla Firefox**.
-
-## My Goal
-Starting my own operating system project.
 
 ## Contact
 <img src="https://avatars.githubusercontent.com/u/79412062" align="right" width="150px" />
