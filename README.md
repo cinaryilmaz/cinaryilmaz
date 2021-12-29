@@ -15,7 +15,7 @@
       <img width="49%" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camroku&theme=apprentice&langs_count=6&hide_border=true&hide_title=true" />
     </a>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img width="49%" alt="Trophy" src="https://github-profile-trophy-iota.vercel.app/?username=Camroku&theme=apprentice&no-frame=true&column=3" />
+      <img width="49%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=Camroku&theme=apprentice&no-frame=true&column=3" />
     </a>
 </div>
 
