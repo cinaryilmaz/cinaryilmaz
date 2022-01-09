@@ -1,8 +1,9 @@
 # Camroku
-> Imagine having an opinion 🤮
+<center>
+  <img width="49%" alt="Camroku Badge" src="camrapps_badge.png"/>
+</center>
 
 [Badges used in this README.md file](https://github.com/Ileriayo/markdown-badges)
-
 ## Stats
 <div>
     <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -59,7 +60,7 @@
 * ![Rust](https://camroku.xyz/badge/rust)
 * ![Shell Script](https://camroku.xyz/badge/sh)
 * ![V](https://camroku.xyz/badge/vlang)
-* ![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
+* ![JSON](https://camroku.xyz/badge/json)
 
 ## Frameworks I used
 * ![.Net](https://camroku.xyz/badge/dotnet)
@@ -78,7 +79,7 @@
     * ![Ubuntu](https://camroku.xyz/badge/ubuntu)
     * ![Kubuntu](https://camroku.xyz/badge/kubuntu)
     * ![Debian](https://camroku.xyz/badge/debian)
-    * ![Zorin OS](https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=for-the-badge&logo=zorin&logoColor=white)
+    * ![Zorin OS](https://camroku.xyz/badge/zorinos)
   * ![Arch](https://camroku.xyz/badge/arch)
     * ![Arch](https://camroku.xyz/badge/arch)
     * ![Artix](https://camroku.xyz/badge/artix)
@@ -106,7 +107,7 @@ I'm currently using **Arch Linux** and **Android**.<br/>
 * bspwm
 * worm
 
-I'm currently using **i3wm**.
+I'm currently using **Plasma**.
 
 ## Browsers I Used
 * Chromium
