@@ -1,7 +1,7 @@
 # Camroku
-<center>
+<div align="center">
   <img width="49%" alt="Camroku Badge" src="camrapps_badge.png"/>
-</center>
+</div>
 
 [Badges used in this README.md file](https://github.com/Ileriayo/markdown-badges)
 ## Stats
