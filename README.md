@@ -18,6 +18,9 @@
     <a href="https://github.com/ryo-ma/github-profile-trophy">
       <img width="49%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=Camroku&theme=apprentice&no-frame=true&column=3" />
     </a>
+    <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+      <img width="98%" alt="Activity" src="https://activity-graph.herokuapp.com/graph?username=Camroku&bg_color=262626&color=BCBCBC&line=8787AF&point=6C6C6C&area_color=5F5F87&area=true&hide_border=true" />
+    </a>
 </div>
 
 ## Pins
