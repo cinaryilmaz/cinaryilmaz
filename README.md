@@ -129,7 +129,7 @@ I'm currently using **Mozilla Firefox**.
 ## Contact
 <img src="https://avatars.githubusercontent.com/u/79412062" align="right" width="150px" />
 
-* [![YouTube](https://camroku.xytechz/badge/yt.svg)](https://www.youtube.com/channel/UCkzCfWEh0DkfW7-vhSFGDJQ)
+* [![YouTube](https://camroku.tech/badge/yt.svg)](https://www.youtube.com/channel/UCkzCfWEh0DkfW7-vhSFGDJQ)
 * [![Camroku](https://camroku.tech/badge/camroku.svg)](https://camroku.tech)
 * [![Email](https://camroku.tech/badge/email.svg)](mailto:cinaryilmaz.gnu@gmail.com)
 * [![Discord](https://camroku.tech/badge/discord.svg)](https://camroku.tech/invite)
