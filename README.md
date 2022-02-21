@@ -26,7 +26,6 @@
 ## Pins
 ![Python](https://camroku.tech/badge/python.svg)<br/>
 [![Pin](https://github-readme-stats.vercel.app/api/pin/?username=Camroku&hide_border=true&theme=apprentice&repo=kagrg)](https://github.com/Camroku/kagrg)
-[![Pin](https://github-readme-stats.vercel.app/api/pin/?username=Camroku&hide_border=true&theme=apprentice&repo=kgl)](https://github.com/Camroku/kgl)
 [![Pin](https://github-readme-stats.vercel.app/api/pin/?username=Camroku&hide_border=true&theme=apprentice&repo=kanote)](https://github.com/Camroku/kanote)
 [![Pin](https://github-readme-stats.vercel.app/api/pin/?username=Camroku&hide_border=true&theme=apprentice&repo=kafetch)](https://github.com/Camroku/kafetch)
 [![Pin](https://github-readme-stats.vercel.app/api/pin/?username=Camroku&hide_border=true&theme=apprentice&repo=kash)](https://github.com/Camroku/kash)
