@@ -1,6 +1,9 @@
+# [Contribute to the Camroku Wiki!](https://wiki.camroku.tech/wiki/Main_Page)
 # Camroku
 <div align="center">
-  <img width="49%" alt="Camroku Badge" src="camrapps_badge.png"/>
+  <a href="https://wiki.camroku.tech/wiki/Main_Page">
+    <img width="49%" alt="Camroku Badge" src="camrapps_badge.png"/>
+  </a>
 </div>
 
 [Badges used in this README.md file](https://github.com/Ileriayo/markdown-badges)
