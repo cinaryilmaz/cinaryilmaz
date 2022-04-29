@@ -1,5 +1,5 @@
-# [Contribute to the Camroku Wiki!](https://wiki.camroku.tech/wiki/Main_Page)
-# [Contribute to the Camroku Git!](https://git.camroku.tech)
+# [Camroku Viki'ye katkida bulunun! (Turkish)](https://wiki.camroku.tech/wiki/Main_Page)
+# [Use Camroku Git!](https://git.camroku.tech)
 # Camroku
 <div align="center">
   <a href="https://wiki.camroku.tech/wiki/Main_Page">
@@ -29,11 +29,7 @@
 
 ## Pins
 ![Python](https://camroku.tech/badge/python.svg)<br/>
-[![Pin](https://github-readme-stats.vercel.app/api/pin/?username=Camroku&hide_border=true&theme=apprentice&repo=kagrg)](https://github.com/Camroku/kagrg)
-[![Pin](https://github-readme-stats.vercel.app/api/pin/?username=Camroku&hide_border=true&theme=apprentice&repo=kanote)](https://github.com/Camroku/kanote)
-[![Pin](https://github-readme-stats.vercel.app/api/pin/?username=Camroku&hide_border=true&theme=apprentice&repo=kafetch)](https://github.com/Camroku/kafetch)
-[![Pin](https://github-readme-stats.vercel.app/api/pin/?username=Camroku&hide_border=true&theme=apprentice&repo=kash)](https://github.com/Camroku/kash)
-[![Pin](https://github-readme-stats.vercel.app/api/pin/?username=Camroku&hide_border=true&theme=apprentice&repo=kas)](https://github.com/Camroku/kas)
+[![Pin](https://github-readme-stats.vercel.app/api/pin/?username=Camroku&hide_border=true&theme=apprentice&repo=QoLang)](https://github.com/Camroku/QoLang)
 
 ![PHP](https://camroku.tech/badge/php.svg)<br/>
 [![Pin](https://github-readme-stats.vercel.app/api/pin/?username=Camroku&hide_border=true&theme=apprentice&repo=lxl-pm)](https://github.com/Camroku/lxl-pm)
@@ -41,9 +37,6 @@
 
 ![C#](https://camroku.tech/badge/csharp.svg)<br/>
 [![Pin](https://github-readme-stats.vercel.app/api/pin/?username=Camroku&hide_border=true&theme=apprentice&repo=filelang)](https://github.com/Camroku/filelang)
-
-![Rust](https://camroku.tech/badge/rust.svg)<br/>
-[![Pin](https://github-readme-stats.vercel.app/api/pin/?username=Camroku&hide_border=true&theme=apprentice&repo=kal)](https://github.com/Camroku/kal)
 
 ![Markdown](https://camroku.tech/badge/md.svg)<br/>
 [![Pin](https://github-readme-stats.vercel.app/api/pin/?username=Camroku&hide_border=true&theme=apprentice&repo=awesome-ka)](https://github.com/Camroku/awesome-ka)
