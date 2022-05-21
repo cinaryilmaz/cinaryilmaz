@@ -1,5 +1,3 @@
-# [Camroku Viki'ye katkida bulunun! (Turkish)](https://wiki.camroku.tech/wiki/Main_Page)
-# [Use Camroku Git!](https://git.camroku.tech)
 # Camroku
 <div align="center">
   <a href="https://wiki.camroku.tech/wiki/Main_Page">
