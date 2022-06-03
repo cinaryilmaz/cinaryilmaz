@@ -1,11 +1,4 @@
 # Camroku
-<div align="center">
-  <a href="https://wiki.camroku.tech/wiki/Main_Page">
-    <img width="49%" alt="Camroku Badge" src="camrapps_badge.png"/>
-  </a>
-</div>
-
-[Badges used in this README.md file](https://github.com/Ileriayo/markdown-badges)
 ## Stats
 <div>
     <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -25,74 +18,51 @@
     </a>
 </div>
 
-## Pins
-![Python](https://camroku.tech/badge/python.svg)<br/>
-[![Pin](https://github-readme-stats.vercel.app/api/pin/?username=Camroku&hide_border=true&theme=apprentice&repo=QoLang)](https://github.com/Camroku/QoLang)
-
-![PHP](https://camroku.tech/badge/php.svg)<br/>
-[![Pin](https://github-readme-stats.vercel.app/api/pin/?username=Camroku&hide_border=true&theme=apprentice&repo=lxl-pm)](https://github.com/Camroku/lxl-pm)
-[![Pin](https://github-readme-stats.vercel.app/api/pin/?username=Camroku&hide_border=true&theme=apprentice&repo=badge-view-count)](https://github.com/Camroku/badge-view-count)
-
-![C#](https://camroku.tech/badge/csharp.svg)<br/>
-[![Pin](https://github-readme-stats.vercel.app/api/pin/?username=Camroku&hide_border=true&theme=apprentice&repo=filelang)](https://github.com/Camroku/filelang)
-
-![Markdown](https://camroku.tech/badge/md.svg)<br/>
-[![Pin](https://github-readme-stats.vercel.app/api/pin/?username=Camroku&hide_border=true&theme=apprentice&repo=awesome-ka)](https://github.com/Camroku/awesome-ka)
-
-![V](https://camroku.tech/badge/vlang.svg)<br/>
-[![Pin](https://github-readme-stats.vercel.app/api/pin/?username=Camroku&hide_border=true&theme=apprentice&repo=susgen)](https://github.com/Camroku/susgen)
-
-![Other](https://camroku.tech/badge/other.svg)<br/>
-[![Pin](https://github-readme-stats.vercel.app/api/pin/?username=Camroku&hide_border=true&theme=apprentice&repo=kd-mikeos)](https://github.com/Camroku/kd-mikeos)
-
 ## Languages I Know
-* ![C#](https://camroku.tech/badge/csharp.svg)
-* ![C++](https://camroku.tech/badge/cpp.svg)
-* ![CSS3](https://camroku.tech/badge/css3.svg)
-* ![Go](https://camroku.tech/badge/golang.svg)
-* ![HTML5](https://camroku.tech/badge/html5.svg)
-* ![Markdown](https://camroku.tech/badge/md.svg)
-* ![PHP](https://camroku.tech/badge/php.svg)
-* ![Python](https://camroku.tech/badge/python.svg)
-* ![Rust](https://camroku.tech/badge/rust.svg)
-* ![Shell Script](https://camroku.tech/badge/sh.svg)
-* ![V](https://camroku.tech/badge/vlang.svg)
-* ![JSON](https://camroku.tech/badge/json.svg)
-
-## Frameworks I used
-* ![.Net](https://camroku.tech/badge/dotnet.svg)
-* ![Flask](https://camroku.tech/badge/flask.svg)
+* C#
+* C++
+* CSS3
+* Go
+* HTML5
+* Markdown
+* PHP
+* Python
+* Rust
+* Shell Script
+* V
+* JSON
 
 ## Operating Systems I Used
-* ![Windows](https://camroku.tech/badge/windows.svg)
+* Windows
   * Windows 7
   * Windows 8.1
   * Windows 10
   * Windows 11
 
-* ![Linux](https://camroku.tech/badge/linux.svg)
-  * ![Debian](https://camroku.tech/badge/debian.svg)
-    * ![Kali](https://camroku.tech/badge/kali.svg)
-    * ![Ubuntu](https://camroku.tech/badge/ubuntu.svg)
-    * ![Kubuntu](https://camroku.tech/badge/kubuntu.svg)
-    * ![Debian](https://camroku.tech/badge/debian.svg)
-    * ![Zorin OS](https://camroku.tech/badge/zorinos.svg)
-  * ![Arch](https://camroku.tech/badge/arch.svg)
-    * ![Arch](https://camroku.tech/badge/arch.svg)
-    * ![Artix](https://camroku.tech/badge/artix.svg)
-    * ![Manjaro](https://camroku.tech/badge/manjaro.svg)
-  * ![Not based on anything](https://camroku.tech/badge/other.svg)
-    * ![Fedora](https://camroku.tech/badge/fedora.svg)
-    * ![OpenSUSE](https://camroku.tech/badge/opensuse.svg)
-    * ![Android](https://camroku.tech/badge/android.svg)
-    * ![Pisi Linux](https://camroku.tech/badge/pisi.svg)
-    * ![Calculate Linux](https://camroku.tech/badge/calculate.svg)
+* Linux
+  * Debian
+    * Kali
+    * Ubuntu
+    * Kubuntu
+    * Debian
+    * Zorin OS
+  * Arch
+    * Arch
+    * Artix
+    * Manjaro
+  * Not based on anything
+    * Fedora
+    * OpenSUSE
+    * Android
+    * Pisi Linux
+    * Calculate Linux
+    * Void Linux
 
-* ![Other](https://camroku.tech/badge/other.svg)
+* Other
   * ToaruOS
   * MikeOS
 
-I'm currently using **Arch Linux** and **Android**.<br/>
+I'm currently using **Void Linux** and **Android**.<br/>
 
 ## Window Managers/Desktop Environments I Used
 * GNOME
@@ -104,26 +74,24 @@ I'm currently using **Arch Linux** and **Android**.<br/>
 * bspwm
 * worm
 
-I'm currently using **Plasma**.
+I'm currently using **dwm**.
 
 ## Browsers I Used
 * Chromium
-  * ![Google Chrome](https://camroku.tech/badge/chrome.svg)
-  * ![Edge](https://camroku.tech/badge/edge.svg)
-  * ![Opera](https://camroku.tech/badge/opera.svg)
-  * ![Brave](https://camroku.tech/badge/brave.svg)
+  * Google Chrome
+  * Edge
+  * Opera
+  * Brave
 * Gecko
-  * ![Firefox](https://camroku.tech/badge/firefox.svg)
-  * ![Tor](https://camroku.tech/badge/tor.svg)
+  * Firefox
+  * Tor
 * Other
-  * ![IE](https://camroku.tech/badge/ie.svg)
+  * IE
 
 I'm currently using **Mozilla Firefox**.
 
 ## Contact
 <img src="https://avatars.githubusercontent.com/u/79412062" align="right" width="150px" />
 
-* [![YouTube](https://camroku.tech/badge/yt.svg)](https://www.youtube.com/channel/UCkzCfWEh0DkfW7-vhSFGDJQ)
-* [![Camroku](https://camroku.tech/badge/camroku.svg)](https://camroku.tech)
-* [![Email](https://camroku.tech/badge/email.svg)](mailto:cinaryilmaz.gnu@gmail.com)
-* [![Discord](https://camroku.tech/badge/discord.svg)](https://discord.gg/umXVyvMdbN)
+* [Camroku.TECH](https://camroku.tech)
+* [Email](mailto:cinaryilmaz.gnu@gmail.com)
