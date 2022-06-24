@@ -1,3 +1,5 @@
+[Aziz Nesin was right.](https://aziznesinwasright.me/)
+
 # Camroku
 ## Stats
 <div>
