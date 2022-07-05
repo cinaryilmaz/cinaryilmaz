@@ -44,10 +44,10 @@
 * Linux
   * Debian
     * Kali
-    * Ubuntu
-    * Kubuntu
     * Debian
-    * Zorin OS
+    * Ubuntu
+      * Kubuntu
+      * Zorin OS
   * Arch
     * Arch
     * Artix
@@ -55,10 +55,12 @@
   * Red Hat
     * Fedora
     * OpenSUSE
+  * Gentoo
+    * Gentoo
+    * Calculate Linux
   * Not based on anything
     * Android
     * Pisi Linux
-    * Calculate Linux
     * Void Linux
 
 * Other
