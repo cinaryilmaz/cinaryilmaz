@@ -52,9 +52,10 @@
     * Arch
     * Artix
     * Manjaro
-  * Not based on anything
+  * Red Hat
     * Fedora
     * OpenSUSE
+  * Not based on anything
     * Android
     * Pisi Linux
     * Calculate Linux
@@ -64,7 +65,7 @@
   * ToaruOS
   * MikeOS
 
-I'm currently using **Void Linux** and **Android**.<br/>
+I'm currently using **Debian** and **Android**.<br/>
 
 ## Window Managers/Desktop Environments I Used
 * GNOME
