@@ -21,18 +21,34 @@
 </div>
 
 ## Languages I Know
-* C#
-* C++
-* CSS3
-* Go
-* HTML5
-* Markdown
-* PHP
-* Python
-* Rust
-* Shell Script
-* V
-* JSON
+* Console stuff
+  * [C](https://gcc.gnu.org/git/gitweb.cgi?p=gcc.git)
+  * [C++](https://gcc.gnu.org/git/gitweb.cgi?p=gcc.git)
+  * [Go](https://github.com/golang/go)
+  * [QoLang](https://github.com/QoLang/QoLang)
+  * [Rust](https://github.com/rust-lang/rust)
+  * [Bash](https://git.savannah.gnu.org/cgit/bash.git)
+  * [V](https://github.com/vlang/v)
+  * [Python](https://github.com/python/cpython)
+* Web
+  * CSS3
+  * HTML5
+  * JS
+  * [PHP](https://github.com/php/php-src)
+  * [Python](https://github.com/python/cpython)
+  * [QoLang](https://github.com/QoLang/QoLang)
+  * [Node.JS](https://github.com/nodejs/node)
+* Markup
+  * Markdown
+  * HTML5
+  * [QoMar](https://github.com/Camroku/Camlog/blob/master/src/lib/qomar.py)
+* Data storage
+  * SQL
+  * JSON
+* I forgot
+  * C#
+
+Note: QoLang based
 
 ## Operating Systems I Used
 * Windows
@@ -84,6 +100,7 @@ I'm currently using **dwm**.
 ## Browsers I Used
 * Chromium
   * Google Chrome
+  * Chromium
   * Edge
   * Opera
   * Brave
@@ -93,10 +110,10 @@ I'm currently using **dwm**.
 * Other
   * IE
 
-I'm currently using **Mozilla Firefox**.
+I'm currently using **Mozilla Firefox** as my primary and **Chromium** as my secondary browser.
 
 ## Contact
 <img src="https://avatars.githubusercontent.com/u/79412062" align="right" width="150px" />
 
 * [Camroku.TECH](https://camroku.tech)
-* [Email](mailto:cinaryilmaz.gnu@gmail.com)
+* [Email](mailto:admin@camroku.tech)
