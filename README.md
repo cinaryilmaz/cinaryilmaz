@@ -1,6 +1,9 @@
 [Aziz Nesin was right.](https://aziznesinwasright.me/)
 
 # Arnolxu / Shhmar
+## Hequndae (Hekence) Alphabet
+![hequndae](https://user-images.githubusercontent.com/79412062/189104098-453ec1cd-de42-4936-9575-a65cd4e6ae15.png)
+
 ## Stats
 <div>
     <a href="https://github.com/anuraghazra/github-readme-stats">
