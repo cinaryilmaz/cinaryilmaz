@@ -2,13 +2,7 @@
 
 also i made my own [color scheme](https://github.com/Arnolxu/tengri-scheme) btw
 
-<details>
-<summary>Something something</summary>
-    
-![image](https://user-images.githubusercontent.com/79412062/205463513-944fe6b4-bb78-4a8a-a7b0-b4c814429216.png)
-
-well not anymore
-</details>
+useful as fuck: [math roadmap](https://github.com/TalalAlrawajfeh/mathematics-roadmap)
 
 # Arnolxu / Shhmar
 ## Hequndae (Hekence) Alphabet
