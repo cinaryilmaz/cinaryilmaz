@@ -1,5 +1,5 @@
-# Tisin / Çınar Yılmaz
-Developer in Artado and Competitive Programmer
+# Çınar Yılmaz
+Developer and competitive programmer
 
 ## Contact
 <img src="https://avatars.githubusercontent.com/u/79412062" align="right" width="150px" />
